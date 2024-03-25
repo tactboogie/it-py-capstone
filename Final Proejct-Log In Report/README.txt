@@ -1,4 +1,5 @@
-Capstone: Login Logout Report
+Capstone: IT Support Specialist Program by Google 
+Login Logout Report
 Author: Torrey Adams, Copilot
 
 Imagine that you're an IT specialist working in a medium-sized company, your manager wants to create 
